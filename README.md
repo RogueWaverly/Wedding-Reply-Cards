@@ -1,6 +1,10 @@
 # Wedding Reply Cards with Passcodes
 Take a .csv list of passcodes and create individual images for each, to be physically printed on a set of reply cards.
 
+Example:
+
+![Example Image](https://github.com/RogueWaverly/Wedding-Reply-Cards/blob/main/example_test.png?raw=true)
+
 ## Setup
 Add .csv file in the top directory named "passcodes.csv" with each passcode on a new line
 
