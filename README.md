@@ -17,6 +17,9 @@ Edit variable values `BASE_WIDTH` and `BASE_HEIGHT`
 ### Passcode Position
 Edit variable values `HORIZONTAL_POSITION` and `VERTICAL_POSITION`
 
+### Image Rotation
+Edit variable value `ROTATE_ANGLE`
+
 ### Font
 Add .ttf file
 
